@@ -1,6 +1,6 @@
 from django.shortcuts import render, HttpResponse
 from datetime import datetime
-from app1.models import Contact
+from home.models import Contact
 
 # Create your views here.
 
